@@ -5,7 +5,7 @@
    Encendido por Boton+ Compatibilidad
 
    IMPORTANTE
-   Ir a seccion definicion de parámetros
+   Ir a seccion definicion de parámetrossasaas
 
    RCM3700 !!!!!!
  	===========
